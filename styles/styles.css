@@ -1,7 +1,49 @@
-div {
+.main-box {
     height: 100px;
     width: 100%;
     margin: 10px;
     border-radius: 10px;
+    background-color: grey;
+}
+
+#gold-box {
+    background-color: gold;
+    height: 150px;
+    width: 150%;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#turquoise {
+    background-color: turquoise;
+}
+
+#magenta {
+    background-color: magenta;
+}
+
+#beige {
+    background-color: beige;
+}
+
+#black {
+    background-color: black;
+}
+
+#crimson {
+    background-color: crimson;
+}
+
+#silver {
     background-color: silver;
 }
