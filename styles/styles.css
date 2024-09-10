@@ -14,18 +14,25 @@
 
 #green {
     background-color: green;
+    height: 200px;
+    width: 200px;
 }
 
 #blue {
     background-color: blue;
+    height: 150;
+    width: 200;
 }
 
 #red {
     background-color: red;
+    height: 200;
+    width: 50;
 }
 
 #turquoise {
     background-color: turquoise;
+    border: 10px solid brown;
 }
 
 #magenta {
@@ -34,6 +41,7 @@
 
 #beige {
     background-color: beige;
+    border: 5px double rgb(241, 222, 238);
 }
 
 #black {
@@ -42,6 +50,7 @@
 
 #crimson {
     background-color: crimson;
+    border: 10px dotted rgb(130, 107, 65);
 }
 
 #silver {
